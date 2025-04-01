@@ -5,7 +5,7 @@ let latestData = 'No data yet';
 
 // Open the serial port. Update the path to match your system (e.g., "COM3" on Windows).
 const port = new SerialPort({
-  path: 'COM3', 
+  path: 'COM4', 
   baudRate: 115200,
   autoOpen: false
 });
