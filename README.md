@@ -4,14 +4,13 @@ Protect your head, protect your game.
 
 ## 👀 Overview
 
-HeadGuard is a web-based app built with JavaScript and CSS, designed to raise awareness and enhance safety in sports or activities where head protection is essential. *(Update this section to match your project's real focus!)*
+HeadGuard is a web-based app built with JavaScript and CSS, designed to raise awareness and enhance safety in helmets designed for construction workers. It provides a full stack dashboard that shows updates in realtime and connects via RF Module for receiving the data. It displays the data in a beautiful User Interface
 
 ## ✨ Features
 
 - ⚡ Fast and interactive UI with JavaScript
 - 🎨 Responsive, modern design with CSS
 - 📱 Works on desktop and mobile browsers
-- *(Add more features as needed!)*
 
 ## 🚀 Getting Started
 
