@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# HeadGuard
+
+Protect your head, protect your game.
+
+## Overview
+
+HeadGuard is a web-based application built using JavaScript and CSS, designed to increase awareness and promote safety in sports or other activities where head protection is vital. *(Update this overview to match your actual project goals!)*
+
+## Features
+
+- Interactive user interface built with modern JavaScript
+- Responsive styling with CSS
+- (Add more features as appropriate to your application)
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- A modern web browser (Chrome, Firefox, Edge, Safari, etc.)
+- [Node.js](https://nodejs.org/) (if your project uses npm or Node-based tooling)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Installation
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Charis-Fernandes/HeadGuard.git
+   cd HeadGuard
+   ```
+2. *(Optional)* If your project uses npm or a build system, install dependencies:
+   ```bash
+   npm install
+   ```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Running the Application
 
-## Learn More
+- Open `index.html` in your browser to launch the app.
+- *(Or describe your actual workflow if there is a server or build process)*
 
-To learn more about Next.js, take a look at the following resources:
+## Usage
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Navigate through the interface and explore the features.
+- (Describe main user actions, if applicable)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Contributing
 
-## Deploy on Vercel
+We welcome contributions from the community! Please fork the repo and submit a pull request.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Authors
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Charis Fernandes
+
+## License
+
+[MIT](LICENSE) (or specify your license here)
